@@ -1,0 +1,7 @@
+##
+####    os dados de raw em projetos reais não sobem para publicação por motivo de segurança de dados  
+src/data/raw
+
+# ambiente virtual 
+venv
+
